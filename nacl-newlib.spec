@@ -3,7 +3,7 @@
 Name:		nacl-newlib
 Summary:	C library intended for use on embedded systems
 Version:	1.18.0
-Release:	1.git%{gitver}%{?dist}
+Release:	1.git%{gitver}%{?dist}.R
 # Generated from git
 # git clone http://git.chromium.org/native_client/nacl-newlib.git
 # (Checkout ID taken from chromium-15.0.874.106/native_client/tools/REVISIONS)
