@@ -28,7 +28,7 @@ Source2:	newlib-libc-script
 Source3:	pthread.h
 
 URL:		http://sourceware.org/newlib/
-BuildRequires:	nacl-binutils nacl-gcc
+BuildRequires:	nacl-binutils nacl-gcc texinfo
 ExclusiveArch:	i686 x86_64
 
 %description
